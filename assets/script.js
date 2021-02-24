@@ -18,7 +18,7 @@ async function fetchAPI() {
   const response = await fetch(baseURL);
   const data = await response.json();
   generateHTML(data.hits);
-  console.log(data);
+  //console.log(data);
 }
 
 function generateHTML(results) {
