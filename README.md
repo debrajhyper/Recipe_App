@@ -11,11 +11,15 @@ Website : https://debrajhyper.github.io/Recipe_App/
 Designed by <a href="https://github.com/debrajhyper">Debraj Karmakar</a>
 
 Technology Used :
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-</ul>
+* HTML5
+* CSS3
+* Bootstrap
+* jQuery
+* JavaScript
+* Fetch API {edamam.com}
+* Github
+* VS Code
+* Chrome
 
 <h3>Home</h3>
 <img src="assets/Screenshot (52).png"/>
